@@ -1,0 +1,1 @@
+In Unity Editor, use menu SYBERIA > Create Demo Scene. This creates the playable demo scene.
