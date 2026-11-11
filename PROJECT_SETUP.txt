@@ -1,0 +1,1 @@
+Create a new Unity 6 Universal 3D (URP) project, then copy Assets/ from this archive into the project. See README_HINDI.md.
